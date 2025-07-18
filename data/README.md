@@ -11,7 +11,7 @@ The data is synthetically generated with realistic open and click-through probab
 
 The code can be found here [Sneaker Drop Email Campaign Data Code]()
 
-The csv file can be found here [Sneaker Drop Email Campaign Data](sneaker-drop-campaign/data/sneaker_drop_email_ab_data.csv)
+The csv file can be found here [Sneaker Drop Email Campaign Data](https://github.com/ssithimo/sneaker-drop-campaign/blob/main/data/sneaker_drop_email_ab_data.csv)
 
 ---
 
