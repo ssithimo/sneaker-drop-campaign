@@ -9,7 +9,16 @@ This dataset simulates an email marketing A/B test for Foot Locker’s limited-e
 
 The data is synthetically generated with realistic open and click-through probabilities to mimic typical email campaign engagement.
 
-The code can be found here [Sneaker Drop Email Campaign Data Code]()
+🤔 Assumptions:
+  - Subject‑line variants A is baseline version (control), B is variant
+  - 25 % open rate – Urgency line
+  - 27 % open rate – Hype/emoji line
+  - 12 % click‑through given open (Group A)
+  - 10 % click‑through given open (Group B)
+  - 20 % purchase given click
+  - $180 average order value (midpoint limited edition sneaker price ranges from 150 - 220)
+
+The code can be found here [Sneaker Drop Email Campaign Data Code](https://github.com/ssithimo/sneaker-drop-campaign/edit/main/data/sneaker_drop_email_campaign_data)
 
 The csv file can be found here [Sneaker Drop Email Campaign Data](https://github.com/ssithimo/sneaker-drop-campaign/blob/main/data/sneaker_drop_email_ab_data.csv)
 
@@ -25,4 +34,6 @@ group 👫 : Experimental group assignment (A = urgency-based subject line, B = 
 opened 📬 : Whether the email was opened (1 = yes, 0 = no)
 
 clicked 🖱️ : Whether a link inside the email was clicked (1 = yes, 0 = no; click can only happen if opened)
+
+purchased 💵 : Whether a purchase was made (1 = yes, 0 = no; purchase can only happen if clicked)
 
