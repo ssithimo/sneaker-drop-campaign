@@ -16,9 +16,8 @@ the subject line on open behavior and downstream funnel performance.
 ## 📊 Methodology
 - Simulated dataset of 20,000 users (10,000 per group)
 - Full funnel simulation: opens → clicks → purchases → revenue
-- Fixed AOV of $180, consistent with mid-tier limited-edition sneaker pricing
-- Conducted **two-proportion z-tests** on both open rates and purchase 
-  conversion rates to assess statistical significance
+- Fixed average order value of $180, consistent with mid-tier limited-edition sneaker retail pricing
+- Conducted **two-proportion z-tests** on both open rates and purchase conversion rates to assess statistical significance
 - Revenue bridge constructed to quantify incremental business impact at scale
 
 ## ✅ Key Findings
@@ -49,7 +48,7 @@ the subject line on open behavior and downstream funnel performance.
   sample of ~260 clickers per group
 
 ### Revenue Bridge
-- Incremental revenue from Email B assumes observed purchase advantage holds:
+- Incremental revenue from Email B assumes the observed purchase advantage holds:
 
 | Subscriber List Size | Incremental Revenue |
 |----------------------|-------------------|
@@ -58,13 +57,13 @@ the subject line on open behavior and downstream funnel performance.
 | 500,000              | $90,000           |
 
 - These projections represent potential upside if B's revenue advantage proves 
-  consistent across future campaigns — not a guaranteed outcome from this 
+  consistent across future campaigns, which is not a guaranteed outcome from this 
   single test
 
 ## 📝 Conclusion
 Email B is the recommended subject line for future sneaker drop campaigns based 
 on its statistically significant open rate advantage (p < 0.001). A higher open 
-rate means more recipients entering the funnel on every send — a compounding 
+rate means more recipients entering the funnel on every send, which is a compounding 
 benefit across a full campaign calendar.
 
 However, three important caveats apply:
