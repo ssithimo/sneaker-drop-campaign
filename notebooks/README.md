@@ -43,9 +43,7 @@ the subject line on open behavior and downstream funnel performance.
   ($10,080 vs. $8,280) in this simulation run
 - However, a two-proportion z-test on purchase conversion rates failed to reach 
   statistical significance (z = -1.34, p = 0.1815)
-- We fail to reject H₀ that purchase conversion rates are equal between groups — 
-  the observed difference is within expected random variation given the smaller 
-  sample of ~260 clickers per group
+- We fail to reject the null hypothesis that states that purchase conversion rates are equal between groups where the observed difference is within expected random variation given the smaller sample of ~260 clickers per group
 
 ### Revenue Bridge
 - Incremental revenue from Email B assumes the observed purchase advantage holds:
