@@ -4,7 +4,7 @@
 This project tests the effectiveness of two subject lines for a Foot Locker 
 sneaker drop email campaign. The goal is to identify which subject line drives 
 stronger customer engagement and downstream revenue by analyzing the full 
-conversion funnel — from inbox open to purchase.
+conversion funnel from inbox open to purchase.
 
 ## 📧 Test Variants
 - **Email A (Control):** "Hurry! Limited pairs remaining."
